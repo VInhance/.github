@@ -1,9 +1,11 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/VInhance/vinhance-web/refs/heads/main/public/logo.png" height="75" width="75" />
+</p>
+
 # VInhance
 
-**Make VTOP useful.**
+> Make VTOP useful.
 
-A simple Chrome extension that improves your VTOP experience, cleaner, faster, and better.
-
-Coming soon to the Chrome Web Store.
-
-Check out: [vinhance.vercel.app](https://vinhance.vercel.app)
+<p>
+    VInhance is a powerful Chrome extension designed to make VTOP more feature-rich for students across all VIT campuses. The extension provides insights on attendance, marks, and schedules directly to your browser.
+</p>
