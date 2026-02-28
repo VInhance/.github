@@ -1,7 +1,9 @@
-# VInahnce
+# VInhance
 
-> Make VTOP useful.
+**Make VTOP useful.**
 
-Coming soon on the Chrome Web Store.
+A simple Chrome extension that improves your VTOP experience, cleaner, faster, and better.
 
-[vinhance.vercel.app](https://vinhance.vercel.app)
+Coming soon to the Chrome Web Store.
+
+Check out: [vinhance.vercel.app](https://vinhance.vercel.app)
