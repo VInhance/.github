@@ -4,4 +4,4 @@
 
 Coming soon on the Chrome Web Store.
 
-vinhance.vercel.app
+[vinhance.vercel.app](https://vinhance.vercel.app)
