@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/VInhance/vinhance-web/refs/heads/main/public/logo.png" height="75" width="75" />
+    <img src="https://vinhance-web.pages.dev/logo.png" height="75" width="75" />
 </p>
 
 # VInhance
